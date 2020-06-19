@@ -1,2 +1,2 @@
-# My-Python-Jorney
-Project Repository
+# My-Python-Journey
+Hello everyone, I am starting my Python Journey from here, with my first project. This project is a collaborative filtering and other filtering solutions using the MovieLens Data Exploration from the GroupLens Research Project at the University of Minnesot. I shall share updates...
